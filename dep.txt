@@ -1,0 +1,5 @@
+mediainfo
+
+TODO
+Use MoviePy and add subtitles
+
